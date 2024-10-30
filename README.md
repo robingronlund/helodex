@@ -6,7 +6,6 @@ Helodex is a Pokémon web app built to provide information about various Pokémo
 
 - **Search Pokémon:** Easily search for your favorite Pokémon.
 - **Detailed Information:** Get detailed stats, abilities, and other information.
-- **Responsive Design:** Works well on both desktop and mobile devices.
 
 ## Technologies Used
 
