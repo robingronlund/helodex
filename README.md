@@ -1,7 +1,3 @@
-Sure, here is a draft for the README.md of the `robingronlund/helodex` repository:
-
----
-
 # Helodex
 
 Helodex is a Pokémon web app built to provide information about various Pokémon. It is developed using TypeScript, JavaScript, HTML, and CSS.
