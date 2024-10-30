@@ -42,15 +42,3 @@ To get started with the project, follow the steps below:
    ```
    http://localhost:3000
    ```
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to adjust the content as needed!
