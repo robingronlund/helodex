@@ -20,7 +20,7 @@ To get started with the project, follow the steps below:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/robingronlund/helodex.git
+   git clone git@github.com:robingronlund/helodex.git
    ```
 
 2. **Navigate to the project directory:**
